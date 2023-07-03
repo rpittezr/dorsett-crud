@@ -15,7 +15,7 @@ The whole project uses:
 This is an example of how to create a complete CRUD that has the main functions, such as: listing, creating, editing and deleting data. The structure of folders and files is organized to be scalable as well.
 
 ## How to run
-Run the following commands:
+Run the following commands: <br/>
   cd app <br/>
   npm install <br/>
   npm run dev
