@@ -16,6 +16,6 @@ This is an example of how to create a complete CRUD that has the main functions,
 
 ## How to run
 Run the following commands:
-  cd app
-  npm install
+  cd app <br/>
+  npm install <br/>
   npm run dev
