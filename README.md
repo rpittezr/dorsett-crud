@@ -4,7 +4,7 @@ Complete React CRUD for admin systems in general
 ## About
 The whole project uses:
 - Material UI for... UI 😅
-- Vite for building
+- Vite as bundler
 - React Router to manipulate routes
 - React Input Mask for input component like "CPF"
 - React Hook Form and Yup for form validation
